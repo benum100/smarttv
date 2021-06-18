@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 ,Россия 1 (+9)
+http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus9/playlist_3.m3u8
+#EXTINF:-1 ,Россия 1 (+8)
+http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus8/playlist_3.m3u8
+#EXTINF:-1 ,Россия 1 (+7)
+http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus7/playlist_3.m3u8
+#EXTINF:-1 ,Россия 1 (+6)
+http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus6/playlist_3.m3u8
+#EXTINF:-1 ,Россия 1 (+6)
+http://tv-online.gtrkchita.ru:8080/hls/r1-chita_360p.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1 ,Россия 1 (+6)
+http://tv-online.gtrkchita.ru:8080/hls/r1-chita_360p.m3u8
+#EXTINF:-1 ,Россия 1 (+5)
+http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus5/playlist_3.m3u8
+#EXTINF:-1 ,Россия 1 (+4)
+http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus4/playlist_3.m3u8
